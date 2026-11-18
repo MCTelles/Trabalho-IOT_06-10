@@ -1,0 +1,7 @@
+# SEGREDOS: nunca versionar
+esp32/estacao_cofre/config.h
+*.env
+.DS_Store
+
+# print que mostra as chaves (nao entregar)
+prints/*NAO_ENTREGAR*
